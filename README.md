@@ -1,6 +1,6 @@
 # Twitter Client 'TwiMob' for Mac OS
 
-<img src="https://github.com/yoshi1125hisa/TwitterCliant-TwiMob/blob/master/TwiMob@0.5x.png?raw=true" width="100%">
+<img src="" width="100%">
 
 This is an application that displays Twitter for Mobile in a small window of Chrome on Mac OS.
 
@@ -13,6 +13,7 @@ It works only with Mac OS.
 2. Please move TwiMob.app to the application directory.
 3. Start TwiMob.app.
 
+https://support.apple.com/kb/PH25088?locale=ja_JP&viewlocale=en_US
 
 ## License
 
