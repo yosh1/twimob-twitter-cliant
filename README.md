@@ -7,7 +7,7 @@ This is an application that displays Twitter for Mobile in a small window of Chr
 It works only with Mac OS.
 
 
-## Install
+## How to install
 
 1. git clone or download this application.
 <img src="https://github.com/yoshi1125hisa/TwitterCliant-TwiMob/blob/master/HowToDownload/step1.png?raw=true">
